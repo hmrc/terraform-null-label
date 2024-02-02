@@ -11,13 +11,6 @@ categories:
 - terraform-modules/supported
 license: APACHE2
 github_repo: cloudposse/terraform-null-label
-badges:
-- name: Latest Release
-  image: https://img.shields.io/github/release/cloudposse/terraform-null-label.svg
-  url: https://github.com/cloudposse/terraform-null-label/releases/latest
-- name: Slack Community
-  image: https://slack.cloudposse.com/badge.svg
-  url: https://slack.cloudposse.com
 description: |-
   Terraform module designed to generate consistent names and tags for resources. Use `terraform-null-label` to implement a strict naming convention.
 
